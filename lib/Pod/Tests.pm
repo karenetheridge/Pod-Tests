@@ -4,7 +4,7 @@ package Pod::Tests;
 
 =head1 NAME
 
-Pod::Tests - Extracts embedded tests and code examples from POD
+Pod::Tests - (DEPRECATED) Extracts embedded tests and code examples from POD
 
 =head1 SYNOPSIS
 

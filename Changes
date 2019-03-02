@@ -2,6 +2,7 @@ Changes for Perl extension Pod-Tests
 
 {{$NEXT}}
         - distribution tooling updates
+        - mark distribution as deprecated, in favour of Test-Inline
 
 1.19      2008-07-12
 	- Moving to a production version
