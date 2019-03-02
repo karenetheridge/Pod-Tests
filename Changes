@@ -1,5 +1,7 @@
 Changes for Perl extension Pod-Tests
 
+{{$NEXT}}
+
 1.20      2019-03-02 20:48:22Z
         - distribution tooling updates
         - mark distribution as deprecated, in favour of Test-Inline
