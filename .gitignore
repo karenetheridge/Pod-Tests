@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/Pod-Tests-*/
+/Pod-Tests-*.tar.gz

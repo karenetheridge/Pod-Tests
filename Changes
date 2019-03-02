@@ -1,5 +1,8 @@
 Changes for Perl extension Pod-Tests
 
+{{$NEXT}}
+        - distribution tooling updates
+
 1.19      2008-07-12
 	- Moving to a production version
 	- Changing to Module::Install to simplify maintenance
